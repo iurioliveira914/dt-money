@@ -10,7 +10,7 @@
 
 <br>
 
-## Sobre o dt money
+## Sobre o DT Money
 
 O DT Money é uma alternativa simples e eficaz para gerenciar suas finanças, permitindo o cadastro de entradas, saídas e a organização das mesmas em categorias.
 
